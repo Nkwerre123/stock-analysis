@@ -1,2 +1,2 @@
 # stock-analysis
-Stock Analysis for Seve
+Stock Analysis for Steve
